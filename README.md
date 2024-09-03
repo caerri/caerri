@@ -1,6 +1,6 @@
-## Hi there 👋
+# About me.
 
-<!--
+
 **caerri/caerri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,5 +13,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
-This is my README file for a class. I'm learning Web Development and Python. 
+
+🌱 This is my README file for a class. I'm learning Web Development and Python. 
