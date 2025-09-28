@@ -1,3 +1,3 @@
-Primarily school projects. 
+Learning.
 
-5th tier priority by the end of 2025? Update this.
+Primarily sandboxes, building a commit habit, and coursework for now.
