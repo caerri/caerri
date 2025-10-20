@@ -1,8 +1,8 @@
 # Carrie Snow
 
-Third-year CS concentration at Harvard Extension School, ALB candidate learning to iterate code blah blah.
+Third-year CS concentration at Harvard Extension School, ALB candidate.
 
-Most repos here are sandboxes, class projects, and works in progress. Expect experiments, half-built features, and notes to future me. Some things will be rough, some will be useful, all of it moves me forward.
+Most repos here are sandboxes, class projects, works in progress, experiments, abandoned projects, etc. serving as notes to future me to embarassed about later as I finally get around to purging them.
 
 ## Current focus areas
 
@@ -25,11 +25,10 @@ Most repos here are sandboxes, class projects, and works in progress. Expect exp
 - GraphQL: 0% (On Radar)
 - LangChain: 0% (On Radar)
 
+### As Chingy might say if he were in my shoes:
 > "why this bug gotta be so hurrd,<br>
 > thought i found the problem right thurr,<br>
 > turns out it was just another err."
 > - inspired by Chingy's lyrical masterpiece, "Right Thurr"
 
-🌐 [carriesnow.io](https://carriesnow.io)
-
-![Powered by caffeine](https://img.shields.io/badge/powered%20by-caffeine-8B5CF6?style=flat-square&logo=buymeacoffee&logoColor=white)
+🌐 [carriesnow.io](https://carriesnow.io)=
