@@ -8,4 +8,4 @@ Most repos here are sandboxes, class projects, works in progress, experiments, a
 
 - Make it past this semester.
 
-🌐 [carriesnow.io](https://carriesnow.io)=
+🌐 [carriesnow.io](https://carriesnow.io)
